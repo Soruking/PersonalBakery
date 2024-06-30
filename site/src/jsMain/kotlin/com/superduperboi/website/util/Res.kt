@@ -28,7 +28,7 @@ object Res {
     }
 
     object Image {
-        const val PROFILE_PHOTO = "photo.jpg"
+        const val PROFILE_PHOTO = "https://optim.tildacdn.com/tild3132-6533-4339-b832-663061633463/-/format/webp/IMG_6141.JPG"
     }
 
     object String {
